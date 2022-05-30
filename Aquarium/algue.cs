@@ -1,0 +1,7 @@
+﻿class Algue
+{
+    public Algue()
+    {
+        
+    }
+}
